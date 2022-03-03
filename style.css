@@ -13,7 +13,7 @@ li:hover {
     color: red;
 }
 
-1 ul {
+ul {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
