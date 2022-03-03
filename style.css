@@ -1,0 +1,60 @@
+* {
+    margin: 0.5rem;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 4rem;
+}
+
+li:hover {
+    cursor: pointer;
+    color: red;
+}
+
+1 ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    font-size: x-large;
+}
+
+nav {
+    width: 60vw;
+    margin-top: -0.3rem;
+}
+
+.big-image {
+    width: 95vw;
+    margin: 10px 1rem 50px;
+}
+
+.container {
+    display: flex;
+}
+
+.container div {
+    text-align: center;
+}
+
+.container>div>p {
+    font-size: x-large;
+    line-height: 1.5rem;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+footer>h1 {
+    margin-bottom: 10px;
+    font-size: xx-large;
+    padding: 10px;
+}
+
+h1 {
+    font-weight: normal;
+}
